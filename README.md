@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Tajae Smith
+- GitHub username: tajaewins-hue
+- Project title: Weekly Wardrobe Planner
+- Application purpose: The weekly wardrobe planner is a python application that helps college students abd busy adults organize clothing they already own and plan outfits for the week. Users will enter clothing details, receive outfit suggestions based on basic color matching rules, and save a weekly outfit plan. The application will also suggest useful wardrobe additions based on missing clothing categories or matching options.
 
 ## How to Run the Application
 
